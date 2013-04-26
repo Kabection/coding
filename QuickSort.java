@@ -1,5 +1,5 @@
 /**
-*   Implementation of QuickSort whose complexity is O(n^2) in the worse case, but  is O(n log n).
+*   Implementation of QuickSort whose complexity is O(n^2) in the worse case, but generally is O(n log n).
 */
 
 public static void quickSort(int[] array, int first, int last){
